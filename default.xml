@@ -341,6 +341,6 @@
   <project path="kernel/moto/asanti_c" name="solitarywarrior1/android_kernel_moto_asanti_c" />
 
   <project path="device/moto/asanti_c" name="solitarywarrior1/android_device_moto_asanti_c" />
-  <project path="vendor/moto/asanti_c" name="razrqcom-dev-team/android_vendor_motorola_xt897" />
+  <project path="vendor/moto/asanti_c" name="razrqcom-dev-team/android_vendor_motorola_xt897" revision="cm-10.1"/>
 
 </manifest>
